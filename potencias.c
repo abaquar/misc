@@ -1,13 +1,6 @@
 #include <stdio.h>
 #include <math.h>
 
-/*
-* Autor: Giuseppe Portolese RA76901
-*
-*  Universidade Estadual de Maringá
-*  Centro de Tecnologia - Departamento de Informática
-*/
-
 long nM[1024];
 int nMult;
 
